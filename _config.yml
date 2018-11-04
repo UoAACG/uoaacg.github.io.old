@@ -1,5 +1,11 @@
+# basic options
 title: University of Athens Computational Astrophysics group
 author: Michalis Papachristou
+email: mighalis@gmail.com
+description: A wonderful site
+twitter_username: jekyllrb
+github_username:  jekyll
 
+# Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
